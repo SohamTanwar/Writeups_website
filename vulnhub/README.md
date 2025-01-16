@@ -1,3 +1,3 @@
 # VulnHub
 
-Writeups of Machines of VulmHub.
+Writeups of Machines of VulnHub.
